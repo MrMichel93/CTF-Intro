@@ -1,0 +1,5 @@
+TODO List:
+- Finish homework
+- Practice terminal commands
+- Find all the flags
+- Study for test

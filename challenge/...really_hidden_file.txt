@@ -1,0 +1,8 @@
+ATTENTION EXPLORER!
+
+You've found an unusual file with an unusual name.
+Sometimes the most obvious hiding spots are the least expected.
+
+Your reward: CTF{Flag #3}
+
+Well done on checking files with strange names!

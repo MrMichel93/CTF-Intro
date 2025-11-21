@@ -1,0 +1,4 @@
+Settings profile #1
+Theme: Dark
+Language: English
+Notifications: Enabled

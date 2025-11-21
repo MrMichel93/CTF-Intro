@@ -1,0 +1,2 @@
+Videos directory.
+Storage for video files.

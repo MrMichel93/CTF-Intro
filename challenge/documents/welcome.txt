@@ -1,0 +1,8 @@
+Welcome to the CTF Challenge!
+
+Your mission is to find 5 hidden flags throughout this directory structure.
+Each flag is formatted as: CTF{Flag #X}
+
+Good luck, explorer! Use your terminal skills to navigate and search.
+
+Hint: Use commands like cd, ls, cat, grep, and find to help you!

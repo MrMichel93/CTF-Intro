@@ -1,0 +1,3 @@
+Math Project - Geometry
+
+This project explores the properties of triangles.

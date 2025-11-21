@@ -1,0 +1,4 @@
+Science Project - Solar System
+
+The solar system consists of 8 planets.
+This project will explore each planet in detail.
