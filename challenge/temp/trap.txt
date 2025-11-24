@@ -1,0 +1,3 @@
+This is a trap file.
+It exists only to waste your time.
+There are no flags here!

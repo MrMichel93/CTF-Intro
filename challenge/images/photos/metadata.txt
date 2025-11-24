@@ -1,0 +1,2 @@
+Photo metadata file.
+This file contains information about stored images.

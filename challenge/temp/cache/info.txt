@@ -1,0 +1,2 @@
+Cache directory for temporary files.
+These files are automatically deleted after 24 hours.

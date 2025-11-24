@@ -1,0 +1,4 @@
+Downloaded file list:
+- document1.pdf
+- image2.jpg
+- video3.mp4

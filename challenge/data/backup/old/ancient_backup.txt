@@ -1,0 +1,7 @@
+This is a very old backup from 2020.
+Most of this data is outdated.
+However, some old secrets remain...
+
+Deep in the archives lies: CTF{Flag #4}
+
+This backup should probably be deleted.

@@ -1,0 +1,4 @@
+Configuration settings for the system.
+Database connection: localhost
+Port: 8080
+Debug mode: false

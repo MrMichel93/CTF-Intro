@@ -1,0 +1,7 @@
+Project Ideas
+
+1. Build a calculator app
+2. Create a todo list
+3. Design a game
+4. Learn about algorithms
+5. Study data structures
